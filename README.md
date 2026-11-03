@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0063-unique-paths-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0063-unique-paths-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0063-unique-paths-ii) |
 ## Algorithm X
 |  |
 | ------- |
