@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0068-text-justification) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0068-text-justification) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0068-text-justification) |
 ## Quicksort
 |  |
 | ------- |
