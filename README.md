@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0073-set-matrix-zeroes) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0073-set-matrix-zeroes) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Jogender-Sangwan/LEETCODE-Journal/tree/master/0073-set-matrix-zeroes) |
 ## Algorithm X
 |  |
 | ------- |
